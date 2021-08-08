@@ -8,3 +8,7 @@
 
 ## GitHub Stats
 ![Keanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeanuDE&show_icons=true&theme=dark)
+
+
+## Social Stuff
+[<img src="https://discord.com/assets/2d20a45d79110dc5bf947137e9d99b66.svg">](https://discord.com/users/137252575211814912/)
