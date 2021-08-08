@@ -5,8 +5,8 @@
 - I have knowledge in nodeJS, JavaScript, PHP, CSS, Java, C#.
 - I'm currently learning cpp and typescript
 
+---
 
-## GitHub Stats
 ![Keanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeanuDE&show_icons=true&theme=dark)
 
 
