@@ -1,13 +1,25 @@
 ### Hi. I'm Keanu
 
-## I'm a student who uses his freetime to create Websites or Discord Stuff
-- I'm currently working on my own custom discord Bots [Discord Server for more info](https://discord.gg/jTDs55BjSE)
-- I have knowledge in nodeJS, JavaScript, PHP, CSS, Java, C#.
-- I'm currently learning rust and typescript
+## A young adult who loves cheap wine and code.
+- I'm currently learning next.js for my upcoming projects.
+
+## Languages/Tools I can use/I'm learning
+[<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/java-icon.png" style="width: 3rem">](https://github.com/KeanuDE/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" style="width: 3rem">](https://github.com/KeanuDE/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="width: 3rem">](https://github.com/KeanuDE/)
+[<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" style="width: 3rem">](https://github.com/KeanuDE/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="width: 3rem">](https://github.com/KeanuDE/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="width: 3rem">](https://github.com/KeanuDE/)
+[<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" style="width: 3rem">](https://github.com/KeanuDE/)
+[<img src="https://www.pngkey.com/png/full/156-1566256_unit-testing-vue-class-components-using-typescript-vue.png" style="width: 3rem">](https://github.com/KeanuDE/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg" style="width: 3rem">](https://github.com/KeanuDE/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="width: 3rem">](https://github.com/KeanuDE/)
+[<img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail-1.png" style="width: 3rem">](https://github.com/KeanuDE/)
+
 
 
 ![Keanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeanuDE&show_icons=true&theme=dark)
 
 
-## Social Stuff
+## Socials
 [<img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" style="width: 3%">](https://discord.com/users/137252575211814912/)
