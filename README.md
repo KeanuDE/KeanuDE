@@ -1,7 +1,7 @@
 ### Hi. I'm Keanu
 
 ## A young adult who loves cheap wine and code.
-- I'm currently learning next.js for my upcoming projects.
+- I'm currently doing an internship at a marketing agency.
 
 ## Languages/Tools I can use/I'm learning
 [<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/java-icon.png" style="width: 3rem">](https://github.com/KeanuDE/)
@@ -15,10 +15,6 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg" style="width: 3rem">](https://github.com/KeanuDE/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="width: 3rem">](https://github.com/KeanuDE/)
 [<img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail-1.png" style="width: 3rem">](https://github.com/KeanuDE/)
-
-
-
-![Keanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeanuDE&show_icons=true&theme=dark)
 
 
 ## Socials
