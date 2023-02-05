@@ -1,7 +1,6 @@
 ### Hi. I'm Keanu
 
 ## A young adult who loves cheap wine and code.
-- I'm currently doing an internship at a marketing agency.
 
 ## Languages/Tools I can use/I'm learning
 [<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/java-icon.png" style="width: 3rem">](https://github.com/KeanuDE/)
